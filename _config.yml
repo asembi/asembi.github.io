@@ -1,0 +1,7 @@
+title: 백송민 Songmin Baek
+description: Major of Information & Communication Engineering, School of Computer Science & Engineering, Yeungnam University
+
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: zivhub/monophase@main
