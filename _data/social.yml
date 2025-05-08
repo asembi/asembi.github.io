@@ -1,0 +1,7 @@
+- title: Email
+  url: mailto:fixedbias@yu.ac.kr
+  icon: fas fa-envelope
+
+- title: Github
+  url: https://github.com/asembi
+  icon: fab fa-github
