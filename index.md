@@ -6,6 +6,7 @@ permalink: /
 <img src="assets/profileImg.svg" width="200px" alt="profileimg">
 
 ## 백송민
+🎂 2002   
 📍 Daegu, Seoul   
 📨 [fixedbias@yu.ac.kr](mailto:fixedbias@yu.ac.kr)   
 

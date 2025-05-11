@@ -7,10 +7,11 @@ permalink: /overview/
 ---
 ## ⚙️ Skills
 **Programming Languages**   
- `C` `Python` - Intermediate   
+`C` `Python` - Intermediate   
 
 **Design Tools**   
- `Photoshop` `Illustrator` - Advanced   
+`Photoshop` `Illustrator` - Advanced   
+`Blender 3D` `Premiere Pro` - Beginner   
 
 ---
 ## 🎓 Certifications

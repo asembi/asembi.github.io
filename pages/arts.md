@@ -17,7 +17,6 @@ Photoshop
 2023
 <img src="/assets/art-2023-1.PNG" alt="2023">
 2024
-<img src="/assets/art-2024-1.PNG" alt="2024-1">
 <img src="/assets/art-2024-2.PNG" alt="2024-2">
 
 ---

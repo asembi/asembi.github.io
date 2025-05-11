@@ -6,8 +6,7 @@ permalink: /design/
 
 # Design
 **Tools**   
-Illustrator   
-Procreate   
+Illustrator    
 Photoshop   
 
 ---
