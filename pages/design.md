@@ -21,19 +21,19 @@ Photoshop
 ## 2020
 충북대학교 중앙동아리 체육분과 '물밑세상' 로고 및 가두모집 포스터 제작   
 - 로고
-<img src="/assets/design-2020-1.PNG" width="300px" alt="2020-1">
+<img src="/assets/design-2020-1.png" width="300px" alt="2020-1">
 
 - 포스터
-<img src="/assets/design-2020-2.PNG" alt="2020-2">
+<img src="/assets/design-2020-2.png" alt="2020-2">
 
 ---
 ## 2022
 대구 소재 어학원 '크라센영어도서관' 브랜딩   
-<img src="/assets/design-2022-1.PNG" alt="2022-1">
+<img src="/assets/design-2022-1.png" alt="2022-1">
 
 ---
 ## 2023
 css를 이용한 iOS 카카오톡 테마 제작 및 배포 경험   
-<img src="/assets/design-2023-1.PNG" alt="2023">
+<img src="/assets/design-2023-1.png" alt="2023">
 
 ---
