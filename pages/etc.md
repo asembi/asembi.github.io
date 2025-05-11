@@ -32,7 +32,7 @@ Photoshop
 JYP 6인조 여자 아이돌 그룹 'NMIXX' 콘서트 배포용 비공식 굿즈 제작 도안   
 <img src="/assets/art-2024-1.PNG" alt="2024-1">
 - 실제 제작 이미지
-<img src="/assets/art-2024-1-2.PNG" width="512px" alt="2024-1">
+<img src="/assets/art-2024-1-2.png" width="512px" alt="2024-1">
 
 ---
 # #4
